@@ -11,7 +11,7 @@
   font-size: 1.2em;
 }
 
-input:focus, textarea:focus, select:focus {
+input:focus, textarea:focus, select:focus{
   outline: none;
 }
 
@@ -23,5 +23,5 @@ input:focus, textarea:focus, select:focus {
   padding: 20px;
   display: inline-block;
   border: none;
-  width: 20%; 
+  width: 20%;
 }
